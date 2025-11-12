@@ -1,0 +1,14 @@
+build/
+install/
+dist/
+*.log
+*.tmp
+node_modules/
+.env
+.DS_Store
+.vscode/
+.idea/
+*.bak
+*.swp
+*.class
+log/
